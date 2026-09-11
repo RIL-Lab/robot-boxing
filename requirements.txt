@@ -1,0 +1,7 @@
+numpy
+scipy
+opencv-python
+torch
+ultralytics
+smplx
+aitviewer
